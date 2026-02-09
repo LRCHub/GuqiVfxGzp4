@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シャドウボクサー",
+  "base_artist": "Shiina Natsukawa",
+  "createdAt": "2026-02-09T19:02:23.581279Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャドウボクサー",
+      "artist": "夏川椎菜",
+      "has_synced": false,
+      "path": "select/pl_01_シャドウボクサー_夏川椎菜.txt"
+    }
+  ]
+}
